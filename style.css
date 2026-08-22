@@ -1,0 +1,29 @@
+body {
+	background-color: #292e37;
+	font-family: arial;
+	color: #1a1a1a;
+	padding: 0px;
+	margin: 0px;
+}
+
+.wrapper {
+	background-image: url("pagebg.png");
+	width: 700px;
+	margin: auto;
+	vertical-align: center;
+	height: 100%;
+}
+
+.leftpart {
+	background-color: #000000;
+	color: #cde1ff;
+	width: 247px;
+}
+
+.navigation {
+	font-weight: 900;
+}
+
+hr {
+	border: 1px dotted white;
+}
