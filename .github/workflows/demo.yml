@@ -1,2 +1,11 @@
 - name: Recursive HTML Directory Listing
-  uses: ElliNet13/html-dir-list@v1
+
+uses: ElliNet13/html-dir-list@2b0c16fc8d0a5c8bfc3c632494188716d901e5ab
+
+  with:
+  
+    dir: .
+    
+    hideDotFiles: true
+    
+    displayLastModified: true
