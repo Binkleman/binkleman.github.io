@@ -25,7 +25,7 @@ jobs:
         run: php directory-listing.php
 
       - name: Recursive usage # (Optional)
-        run: |
+        run: 
           cd src && php ../directory-listing.php
           cd icons && php ../../directory-listing.php
 
