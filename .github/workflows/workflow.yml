@@ -4,4 +4,4 @@
   uses: jayanta525/github-pages-directory-listing@v4.0.0
   with:
     # folder to start index generations
-    FOLDER: root
+    FOLDER: comicarchive
